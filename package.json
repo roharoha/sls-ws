@@ -1,0 +1,12 @@
+{
+  "name": "sls-ws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/roharoha/sls-ws.git",
+  "author": "Roha Park <rohawolf@likelion.net>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.504.0",
+    "sanitize-html": "^1.20.1"
+  }
+}
