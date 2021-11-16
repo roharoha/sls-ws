@@ -6,7 +6,7 @@
   "author": "Roha Park <rohawolf@likelion.net>",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.504.0",
+    "aws-sdk": "^2.814.0",
     "sanitize-html": "^1.20.1"
   }
 }
